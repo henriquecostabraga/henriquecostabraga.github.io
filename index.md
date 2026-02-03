@@ -22,9 +22,9 @@ I have strong experience in translating theoretical models into practical comput
 - Python-based Scientific Computing
 
 ---
-
+<!-- Texto provisório, revisar depois -->
 ## Profiles
-- ResearchGate: [https://www.researchgate.net/profile/SEU_LINK](https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf)
-- Lattes (Brazil): [http://lattes.cnpq.br/SEU_LINK](http://lattes.cnpq.br/4000581168785421)
+- ResearchGate: <a href="[https://www.researchgate.net/profile/SEU_LINK](https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf)" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+- Lattes (Brazil): <a href="(http://lattes.cnpq.br/4000581168785421)" target="_blank" rel="noopener noreferrer">Lattes (Brazil)</a>
 - Email1: henriquecbragaseg@gmail.com
 - Email2: henriquebraga@cefetmg.br
