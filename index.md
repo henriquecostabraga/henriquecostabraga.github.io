@@ -18,7 +18,7 @@ I am currently open to international research collaborations, applied research p
 ---
 
 ## Selected Topics
-- urban Transportation and Mobility Analysis
+- Urban Transportation and Mobility Analysis
 - Hybrid Cellular Automata for Microstructural Modeling
 - Agent-Based Modeling and Crowd Dynamics
 - Computational Materials Science
