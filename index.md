@@ -18,8 +18,8 @@ I am currently open to international research collaborations, postdoctoral oppor
 ---
 
 ## Selected Topics
-- Urban Transportation and Mobility Analysis
 - Hybrid Cellular Automata for Microstructural Modeling
+- Urban Transportation and Mobility Analysis
 - Agent-Based Modeling and Crowd Dynamics
 - Computational Materials Science
 - Fire Safety and Evacuation Modeling
@@ -35,13 +35,13 @@ I am currently open to international research collaborations, postdoctoral oppor
 - Braga HC, Silva SN. *Study of recrystallization in metals through equiaxial growth of nuclei using three-dimensional hybrid cellular automata.* **Materials Research**, 2025.  
   DOI: <a href="https://doi.org/10.1590/1980-5373-MR-2025-0204" target="_blank" rel="noopener noreferrer">10.1590/1980-5373-MR-2025-0204</a>
 
-- Braga HC, Moita GF, Almeida PEM. *The influence of emergency exit location on travel distance in built environments.* **Ambiente Construído**, 2019.  
+- Braga HC, Moita GF, Almeida PEM. *The influence of emergency exits over the distance to be covered to the exit of an environment.* **Ambiente Construído**, 2019.  
   DOI: <a href="https://doi.org/10.1590/s1678-86212019000200318" target="_blank" rel="noopener noreferrer">10.1590/s1678-86212019000200318</a>
 
-- Braga HC, Moita GF. *On the Boate Kiss fire and Brazilian safety legislation: lessons learned.* **Collective Dynamics**, 2017.  
+- Braga HC, Moita GF. *On the Boate Kiss fire and Brazilian safety legislation - What we can learn.* **Collective Dynamics**, 2017.  
   DOI: <a href="https://doi.org/10.17815/CD.2017.12" target="_blank" rel="noopener noreferrer">10.17815/CD.2017.12</a>
 
-- Braga HC, Moita GF, Almeida P. *Comparison of Von Neumann and Moore neighborhood search algorithms for distance map generation in built environments.* **Abakós**, 2016.  
+- Braga HC, Moita GF, Almeida P. *Comparison between search algorithms by Von Neumann or Moore neighborhood for generation of the distance map in a built environment.* **Abakós**, 2016. [in Portuguese]. 
   DOI: <a href="https://doi.org/10.5752/P.2316-9451.2016v4n2p20" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2016v4n2p20</a>
 
 ---
