@@ -41,7 +41,7 @@ I am currently open to international research collaborations, postdoctoral oppor
 - Braga HC, Moita GF. *On the Boate Kiss fire and Brazilian safety legislation - What we can learn.* **Collective Dynamics**, 2017.  
   DOI: <a href="https://doi.org/10.17815/CD.2017.12" target="_blank" rel="noopener noreferrer">10.17815/CD.2017.12</a>
 
-- Braga HC, Moita GF, Almeida P. *Comparison between search algorithms by Von Neumann or Moore neighborhood for generation of the distance map in a built environment.* **Abakós**, 2016. [in Portuguese]. 
+- Braga HC, Moita GF, Almeida PEM. *Comparison between search algorithms by von Neumann or Moore neighborhood for generation of the distance map in a built environment.* **Abakós**, 2016. [in Portuguese]. 
   DOI: <a href="https://doi.org/10.5752/P.2316-9451.2016v4n2p20" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2016v4n2p20</a>
 
 ---
