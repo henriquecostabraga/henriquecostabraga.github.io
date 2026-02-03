@@ -7,7 +7,7 @@ Materials Science • Transportation Systems • Fire Safety
 
 ## About
 
-I am a researcher with interdisciplinary expertise in computational modeling applied to materials science, transportation systems, and fire safety. My work focuses on the development and application of hybrid cellular automata, agent-based models, and data-driven methods to analyze, simulate, and optimize complex physical and socio-technical systems.
+I am a researcher with interdisciplinary expertise in computational modeling applied to materials science, transportation systems, and fire safety. My work focuses on the development and application of hybrid cellular automata, agent-based models, pathdinding algorithms, and data-driven methods to analyze, simulate, and optimize complex physical and socio-technical systems.
 
 I have extensive experience translating theoretical and mathematical models into practical computational tools, with applications ranging from microstructural evolution in materials to pedestrian dynamics, safety analysis, and mobility systems. My work combines numerical modeling, simulation, and scientific software development, primarily in Python.
 
