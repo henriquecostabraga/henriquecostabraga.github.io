@@ -13,7 +13,7 @@ I have extensive experience translating theoretical and mathematical models into
 
 More recently, my research activities have focused primarily on the modeling and analysis of origin–destination (OD) matrices derived from mobile phone data, with applications in urban mobility and transport planning. In this context, I currently guide a small research team working on data processing, modeling, and analytical methods for large-scale mobility datasets. In parallel, I continue to develop research studies in computational materials science and fire safety.
 
-I am currently open to international research collaborations, applied research projects, and technical roles in modeling and simulation.
+I am currently open to international research collaborations, postdoctoral opportunities, applied research projects, and technical engineering roles, including but not limited to modeling and simulation.
 
 ---
 
