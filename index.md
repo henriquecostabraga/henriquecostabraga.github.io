@@ -28,8 +28,11 @@ I am open to academic positions, postdoctoral opportunities, applied R&D collabo
 - Hybrid Cellular Automata
 - Data-Driven Mobility Analysis
 - Computational Materials Engineering
-- Fire Safety - Evacuation Modeling - CFD (Fire Dynamic Simulator/NIST)
-- Python-Based Scientific ComputingHybrid Cellular Automata for Microstructural Modeling
+- Fire Safety & Evacuation Modeling
+- Pathfinding Algorithms
+- CFD (Fire Dynamic Simulator / NIST)
+- Microstructural Modeling
+- Python-Based Scientific Computing
 
 ---
 
