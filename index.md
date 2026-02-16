@@ -1,8 +1,8 @@
 # Henrique Costa Braga
 #Ph.D. | Engineer
 
-Computational Modeling of Complex Engineering Systems
-Materials Science • urban Mobolity • Fire Safety
+Computational Modeling of Complex Engineering Systems 
+Materials Science • Urban Mobolity • Fire Safety
 
 ---
 
