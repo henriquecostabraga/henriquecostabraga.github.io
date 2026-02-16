@@ -11,7 +11,7 @@ Materials Science • Urban Mobility • Fire Safety
 
 I am an engineer and researcher specialized in mathematical and computational modeling applied to complex engineering systems.
 
-My work integrates hybrid cellular automata, agent-based modeling, numerical simulation, pathfinding algorithms, computational flid dynamics (FDS/NIST), and data-driven analytical methods to develop practical computational tools for real-world engineering problems.
+My work integrates hybrid cellular automata, agent-based modeling, numerical simulation, pathfinding algorithms, computational fluid dynamics, and data-driven analytical methods to develop practical computational tools for real-world engineering problems.
 
 Applications include microstructural evolution in materials, urban mobility and origin–destination modeling, pedestrian dynamics, evacuation analysis, and fire safety systems.
 
