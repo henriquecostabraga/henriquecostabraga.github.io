@@ -1,29 +1,34 @@
 # Henrique Costa Braga
+Ph.D. | Engineer
 
-Computational Modeling & Simulation  
-Materials Science • Transportation Systems • Fire Safety
+Computational Modeling of Complex Engineering Systems
+Materials Science • urban Mobolity • Fire Safety
 
 ---
 
 ## About
 
-I am a researcher with interdisciplinary expertise in computational modeling applied to materials science, transportation systems, and fire safety. My work focuses on the development and application of hybrid cellular automata, agent-based models, pathfinding algorithms, and data-driven methods to analyze, simulate, and optimize complex physical and socio-technical systems.
+I am an engineer and researcher specialized in mathematical and computational modeling applied to complex engineering systems.
 
-I have extensive experience translating theoretical and mathematical models into practical computational tools, with applications ranging from microstructural evolution in materials to pedestrian dynamics, safety analysis, and mobility systems. My work combines numerical modeling, simulation, and scientific software development, primarily in Python.
+My work integrates hybrid cellular automata, agent-based modeling, numerical simulation, pathfinding algorithms, and data-driven analytical methods to develop practical computational tools for real-world engineering problems.
 
-More recently, my research activities have focused primarily on the modeling and analysis of origin–destination (OD) matrices derived from mobile phone data, with applications in urban mobility and transport planning. In this context, I currently guide a small research team working on data processing, modeling, and analytical methods for large-scale mobility datasets. In parallel, I continue to develop research studies in computational materials science and fire safety.
+Applications include microstructural evolution in materials, urban mobility and origin–destination modeling, pedestrian dynamics, evacuation analysis, and fire safety systems.
 
-I am currently open to international research collaborations, postdoctoral opportunities, applied research projects, and technical engineering roles, including but not limited to modeling and simulation.
+I have extensive experience translating theoretical and mathematical formulations into operational software frameworks, primarily in Python, combining numerical modeling, simulation, and analytical system design.
+
+Recent projects involve large-scale mobility modeling based on mobile phone data (OD matrices), where I coordinate research activities related to data processing pipelines, modeling architecture, and analytical frameworks.
+
+I am open to academic positions, postdoctoral opportunities, applied R&D collaborations, and technical engineering roles involving modeling, simulation, and analytical systems.
 
 ---
 
 ## Selected Topics
-- Hybrid Cellular Automata for Microstructural Modeling
-- Urban Transportation and Mobility Analysis
-- Agent-Based Modeling and Crowd Dynamics
-- Computational Materials Science
-- Fire Safety and Evacuation Modeling
-- Python-based Scientific Computing
+- Computational Modeling & Simulation
+- Hybrid Cellular Automata
+- Data-Driven Mobility Analysis
+- Computational Materials Engineering
+- Fire Safety & Evacuation Modeling
+- Python-Based Scientific ComputingHybrid Cellular Automata for Microstructural Modeling
 
 ---
 
