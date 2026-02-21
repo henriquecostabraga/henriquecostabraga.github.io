@@ -71,6 +71,18 @@ A computational system for simulating recrystallization and grain growth in meta
 
 ---
 
+## Academic & International Engagement
+
+Research dissemination through national and international scientific conferences across South America, Europe, Asia, and North America, including presentations in Brazil, Ecuador, Spain, China, and the United States.
+
+Participation in major conferences in the fields of computational modeling, evacuation dynamics, and mobility systems, with peer-reviewed works presented internationally.
+
+Service as session chair at an international scientific conference in China.
+
+Research outputs have also been presented internationally by collaborators in leading conferences in the United States, Europe, and Asia.
+
+---
+
 ## Areas of Expertise
 
 - Computational Systems Architecture  
