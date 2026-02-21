@@ -1,111 +1,103 @@
 # Henrique Costa Braga, Ph.D.
-Engineer | Computational Modeling | Applied Systems Architecture
+Engineer | Applied Systems Architecture | Research-to-Implementation Design  
+
+Architecting computational systems that bridge research and real-world engineering applications.
 
 ---
 
-## Profile
+## Professional Overview
 
-I am an engineer and Ph.D. specialized in mathematical and computational modeling of complex engineering systems, with emphasis on the design and implementation of structured computational architectures.
+I am an engineer and Ph.D. specialized in mathematical and computational modeling of complex engineering systems. My work focuses on designing structured computational architectures that transform theoretical models into operational analytical frameworks.
 
-My work integrates theoretical formulation, numerical modeling, and software architecture design to build operational computational frameworks capable of addressing real-world engineering problems.
+My professional trajectory integrates academic research and applied engineering practice. I have coordinated research activities involving large-scale data-processing pipelines, mobility system analytics, and simulation-based engineering models, while also holding formal technical responsibility (ART – CREA) in fire safety and regulatory compliance projects.
 
-I develop model-driven systems combining hybrid cellular automata, agent-based modeling, graph-based algorithms, numerical simulation, and structured data-processing pipelines. My work emphasizes modular design, architectural clarity, and reproducible analytical workflows.
+I operate at the interface between theory, modeling, and implementation — building systems that are analytically rigorous, computationally structured, and practically deployable.
 
-My professional trajectory bridges academic research and applied engineering practice, including formal technical responsibility (ART – CREA) in fire safety systems and regulatory compliance projects.
-
-I coordinate research activities involving large-scale data processing pipelines and computational modeling architectures, translating analytical concepts into deployable computational tools.
-
-I am open to academic positions, postdoctoral opportunities, applied R&D collaborations, and technical engineering roles involving modeling, simulation, and analytical system design.
+I am open to academic appointments, postdoctoral opportunities, applied R&D collaborations, and senior technical engineering roles involving modeling, simulation, and analytical system design.
 
 ---
 
-## Featured Projects
+## Core Projects & Computational Frameworks
 
-### 🔹 ODDET — Origin–Destination Data Evaluation Tool
+### ODDET — Origin–Destination Data Evaluation Tool  
+**Large-scale mobility analytics framework**
 
-A modular Python-based analytical framework designed for large-scale origin–destination matrix processing derived from mobile phone datasets.
+A structured Python-based framework for processing and diagnosing large-scale Origin–Destination matrices derived from anonymized mobile phone datasets.
 
-Key components:
-
+**Capabilities:**
 - Interzonal traversal analysis  
 - Percentile-based flow filtering  
 - Geodetic distance computation (Haversine)  
-- Graph-based analytical routines  
-- Structured data processing pipelines  
+- Corridor identification and threshold analytics  
+- Modular data-processing architecture  
 
-Designed to support metropolitan-scale mobility diagnostics and analytical decision-making.
+**Application context:** Metropolitan-scale mobility diagnostics (RMBH, Brazil)
+
+➡️ [Explore ODDET Framework](https://henriquecostabraga.github.io/oddet.html)
 
 ---
 
-### 🔹 FUGA — Evacuation & Pathfinding Simulation Framework
+### FUGA — Evacuation & Pathfinding Simulation Platform  
+**Agent-based evacuation modeling system**
 
-An agent-based simulation platform for modeling pedestrian dynamics and evacuation processes in built environments.
+A simulation framework designed to analyze pedestrian dynamics, distance-map generation, and evacuation efficiency in built environments.
 
-Core elements:
-
-- Distance-map generation algorithms  
-- Von Neumann / Moore neighborhood comparison  
+**Capabilities:**
+- Von Neumann and Moore neighborhood comparison  
 - Multi-agent movement logic  
-- Exit distribution impact analysis  
-- Integration with fire safety engineering standards  
+- Exit-distribution optimization analysis  
+- Integration with fire safety engineering standards
 
-Developed to bridge evacuation theory, computational modeling, and applied fire safety engineering.
+➡️ [Explore FUGA Framework](https://henriquecostabraga.github.io/fuga.html)
 
 ---
 
-### 🔹 SimCres — 3D Hybrid Cellular Automata for Microstructural Evolution
+### SimCres — 3D Hybrid Cellular Automata  
+**Microstructural evolution modeling platform**
 
-A computational platform for simulating recrystallization and grain growth in metallic materials.
+A computational system for simulating recrystallization and grain growth in metallic materials using three-dimensional hybrid cellular automata.
 
-Core elements:
-
+**Capabilities:**
 - Spheroidal grain modeling  
-- Surface-area estimation methods  
+- Surface-area estimation methodologies  
 - Lattice-based 3D simulation  
-- Statistical morphological analysis  
+- Statistical morphological analysis
 
-Focused on integrating physical modeling consistency with scalable computational implementation.
-
----
-
-## Areas of Application
-
-- Computational Materials Engineering  
-- Large-Scale Urban Mobility Modeling (Origin–Destination Systems)  
-- Pedestrian Dynamics & Evacuation Simulation  
-- Fire Safety Engineering & Regulatory Analysis  
-- Scientific Python Architectures  
+➡️ [Explore SimCres Framework](https://henriquecostabraga.github.io/simcres.html)
 
 ---
 
-## Technical Foundations
+## Areas of Expertise
 
-- Hybrid Cellular Automata (HCA)  
-- Agent-Based Modeling (ABM)  
+- Computational Systems Architecture  
+- Hybrid Cellular Automata (3D HCA)  
+- Agent-Based Modeling  
 - Graph Algorithms & Pathfinding  
-- Numerical Methods & Scientific Computing  
-- Python (NumPy, Pandas, Matplotlib)  
-- Fire Dynamics Simulator (NIST – FDS)  
-- Engineering Responsibility & Technical Compliance  
+- Large-Scale OD Matrix Processing  
+- Scientific Python (NumPy, Pandas, Matplotlib)  
+- Fire Safety Engineering & Regulatory Analysis  
+- Data-Driven Engineering Diagnostics  
 
 ---
 
-## Approach
+## Engineering Approach
 
 My work is structured around:
 
-- Model-first architecture  
+- Model-first computational design  
 - Mathematical consistency  
-- Modular computational design  
+- Modular architecture and scalability  
 - Reproducible analytical workflows  
-- System-level integration  
-- Translation of research into operational tools  
+- Integration of research and implementation  
+- System-level problem structuring  
 
-I focus on designing computational systems that are analytically rigorous and practically deployable.
+I focus on developing computational systems that are technically rigorous while remaining operationally relevant in real engineering contexts.
 
 ---
 
 ## Selected Peer-Reviewed Publications
+
+Selected publications in computational modeling, evacuation analysis, and materials simulation.
 
 - Braga HC, Silva SN, Correa ECS. *Modeling and simulation of recrystallization in metals with spheroidal grain structures using hybrid cellular automata.* **Materia** (Rio de Janeiro), 2026.  
   DOI: <a href="https://doi.org/10.1590/1517-7076-RMAT-2025-0758" target="_blank" rel="noopener noreferrer">10.1590/1517-7076-RMAT-2025-0758</a>
@@ -124,11 +116,22 @@ I focus on designing computational systems that are analytically rigorous and pr
 
 ---
 
-## Profiles
-- <a href="https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a>
-- <a href="https://orcid.org/0000-0001-9504-6156" target="_blank" rel="noopener noreferrer">ORCID</a>
-- <a href="http://lattes.cnpq.br/4000581168785421" target="_blank" rel="noopener noreferrer">CV Lattes (Brazil)</a>
+## Project Pages
+
+- [ODDET — Mobility Framework](oddet.html)
+- [FUGA — Evacuation Modeling Framework](fuga.html)
+- [SimCres — Materials Modeling Framework](simcres.html)
+
+---
+  
+## Professional Links
+
+- 🔗 [LinkedIn](https://linkedin.com/in/henrique-costa-braga-71636057)  
+- 🧬 [ORCID](https://orcid.org/0000-0001-9504-6156)  
+- 📊 [ResearchGate](https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf)
+- 📘 [CV Lattes (Brazil)](http://lattes.cnpq.br/4000581168785421)
+
   
 ## Contact
-📧 henriquecbragaseg@gmail.com  
-📧 henriquebraga@cefetmg.br
+henriquecbragaseg@gmail.com  
+henriquebraga@cefetmg.br
