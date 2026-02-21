@@ -1,7 +1,7 @@
 # Henrique Costa Braga, Ph.D.
 Engineer | Applied Systems Architecture | Research-to-Implementation Design  
 
-Architecting computational systems that bridge research and real-world engineering applications.
+Designing computational systems that bridge rigorous modeling and real-world engineering applications.
 
 ---
 
@@ -9,9 +9,9 @@ Architecting computational systems that bridge research and real-world engineeri
 
 I am an engineer and Ph.D. specialized in mathematical and computational modeling of complex engineering systems. My work focuses on designing structured computational architectures that transform theoretical models into operational analytical frameworks.
 
-My professional trajectory integrates academic research and applied engineering practice. I have coordinated research activities involving large-scale data-processing pipelines, mobility system analytics, and simulation-based engineering models, while also holding formal technical responsibility (ART – CREA) in fire safety and regulatory compliance projects.
+My professional trajectory integrates academic research and applied engineering practice. I coordinate research activities involving large-scale data-processing pipelines, mobility system analytics, and simulation-based engineering models, while also holding formal technical responsibility (ART – CREA) in fire safety and regulatory compliance projects.
 
-I operate at the interface between theory, modeling, and implementation — building systems that are analytically rigorous, computationally structured, and practically deployable.
+I operate at the interface between theory, modeling, and implementation — structuring systems that are analytically rigorous, computationally scalable, and practically deployable.
 
 I am open to academic appointments, postdoctoral opportunities, applied R&D collaborations, and senior technical engineering roles involving modeling, simulation, and analytical system design.
 
@@ -51,11 +51,9 @@ FUGA was structured into two complementary modules:
 - **FUGA Path** — A visibility-driven deterministic routing module generating geometrically optimal evacuation paths over discretized environments with fixed obstacles.
 - **FUGA Move** — A dynamic multi-agent simulation module incorporating behavioral modeling (including fuzzy-logic-based decision mechanisms) to balance optimal routing with human and crowd dynamics.
 
-The visibility-based exploration algorithm emerged as the central structural contribution of the framework, producing geometrically optimal routes under discretization constraints.
+The visibility-based exploration algorithm constitutes the principal structural contribution of the framework, producing geometrically optimal routes under discretization constraints.
 
-FUGA generated multiple peer-reviewed journal publications and extensive international conference dissemination.
-
-The research line is considered methodologically consolidated and forms the foundation for future independent developments in evacuation modeling architectures.
+FUGA generated multiple peer-reviewed journal publications and extensive international conference dissemination. The research line is methodologically consolidated and forms the foundation for future independent developments in evacuation modeling architectures.
 
 ➡️ [Explore FUGA Framework](https://henriquecostabraga.github.io/fuga.html)
 
@@ -69,13 +67,14 @@ An independently developed computational platform for modeling recrystallization
 SimCres introduced and implemented a hybrid CA formulation enabling high-fidelity spherical grain modeling under discretized lattice constraints, overcoming geometric limitations inherent to traditional cellular automata.
 
 **Core capabilities:**
+
 - Hybrid Cellular Automata (HCA) formulation for spherical grain modeling  
 - Comparative modeling with traditional CA (including cuboctahedral configurations)  
 - Extension to spheroidal morphologies  
 - Equivalent and voxel-based surface-area estimation  
-- Fully discrete computation of interfacial area evolution between phases, without phenomenological support equations or empirical correction factors, made possible by geometrically consistent spherical modeling and robust surface-area estimation
+- Fully discrete computation of interfacial area evolution between phases, without phenomenological support equations or empirical correction factors  
 - Large-scale lattice-based 3D simulation  
-- Statistical characterization of polycrystalline microstructures
+- Statistical characterization of polycrystalline microstructures  
 
 ➡️ [Explore SimCres Framework](https://henriquecostabraga.github.io/simcres.html)
 
@@ -83,9 +82,7 @@ SimCres introduced and implemented a hybrid CA formulation enabling high-fidelit
 
 ## Academic & International Engagement
 
-Research dissemination through national and international scientific conferences across South America, Europe, Asia, and North America, including presentations in Brazil, Ecuador, Spain, China, and the United States.
-
-Participation in major conferences in the fields of computational modeling, evacuation dynamics, and mobility systems, with peer-reviewed works presented internationally.
+Research dissemination through peer-reviewed national and international scientific conferences across South America, Europe, Asia, and North America, including presentations in Brazil, Ecuador, Spain, China, and the United States.
 
 Service as session chair at an international scientific conference in China.
 
@@ -117,7 +114,7 @@ My work is structured around:
 - Integration of research and implementation  
 - System-level problem structuring  
 
-I focus on developing computational systems that are technically rigorous while remaining operationally relevant in real engineering contexts.
+I develop computational systems that are technically rigorous while remaining operationally relevant in real engineering contexts.
 
 ---
 
@@ -140,14 +137,6 @@ Selected publications in computational modeling, evacuation analysis, and materi
 - Braga HC, Moita GF, Almeida PEM. *Comparison between search algorithms by von Neumann or Moore neighborhood for generation of the distance map in a built environment.* **Abakós**, 2016. [in Portuguese]. 
   DOI: <a href="https://doi.org/10.5752/P.2316-9451.2016v4n2p20" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2016v4n2p20</a>
 
----
-
-## Project Pages
-
-- [Explore ODDET Framework](https://henriquecostabraga.github.io/oddet.html)
-- [Explore FUGA Framework](https://henriquecostabraga.github.io/fuga.html)
-- [Explore SimCres Framework](https://henriquecostabraga.github.io/simcres.html)
-  
 ---
   
 ## Professional Links
