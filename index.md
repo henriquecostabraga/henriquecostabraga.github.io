@@ -62,15 +62,20 @@ The research line is considered methodologically consolidated and forms the foun
 ---
 
 ### SimCres — 3D Hybrid Cellular Automata  
-**Microstructural evolution modeling platform**
+**Independent computational framework for microstructural evolution modeling**
 
-A computational system for simulating recrystallization and grain growth in metallic materials using three-dimensional hybrid cellular automata.
+An independently developed computational platform for modeling recrystallization and grain-growth phenomena using three-dimensional Hybrid Cellular Automata (HCA).
 
-**Capabilities:**
-- Spheroidal grain modeling  
-- Surface-area estimation methodologies  
-- Lattice-based 3D simulation  
-- Statistical morphological analysis
+SimCres introduced and implemented a hybrid CA formulation enabling high-fidelity spherical grain modeling under discretized lattice constraints, overcoming geometric limitations inherent to traditional cellular automata.
+
+**Core capabilities:**
+- Hybrid Cellular Automata (HCA) formulation for spherical grain modeling  
+- Comparative modeling with traditional CA (including cuboctahedral configurations)  
+- Extension to spheroidal morphologies  
+- Equivalent and voxel-based surface-area estimation  
+- Fully discrete computation of interfacial area evolution between phases, without phenomenological support equations or empirical correction factors, made possible by geometrically consistent spherical modeling and robust surface-area estimation
+- Large-scale lattice-based 3D simulation  
+- Statistical characterization of polycrystalline microstructures
 
 ➡️ [Explore SimCres Framework](https://henriquecostabraga.github.io/simcres.html)
 
