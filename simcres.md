@@ -10,7 +10,7 @@ SimCres is an independently conceived and fully implemented computational framew
 
 The platform was developed with full responsibility for conceptual formulation, mathematical structuring, algorithmic implementation, and scientific production.
 
-A central contribution of SimCres is the introduction and application of a hybrid CA formulation enabling high-fidelity spherical grain modeling under discretized lattice constraints. This approach overcomes geometric limitations inherent to traditional cellular automata and provides a consistent basis for quantitative microstructural analysis.
+A central contribution of SimCres is the formulation and implementation of a hybrid CA approach enabling high-fidelity spherical grain modeling under discretized lattice constraints. This formulation overcomes geometric limitations inherent to traditional cellular automata and establishes a consistent basis for quantitative microstructural and interfacial analysis.
 
 ---
 
@@ -18,21 +18,21 @@ A central contribution of SimCres is the introduction and application of a hybri
 
 SimCres is structured around the following core principles:
 
-- Hybrid Cellular Automata (HCA) formulation for spherical grain modeling  
-- Comparative modeling with traditional CA (including cuboctahedral configurations)  
+- Hybrid Cellular Automata (HCA) formulation for geometrically consistent spherical grain modeling  
+- Comparative modeling with traditional CA (including cuboctahedral growth configurations)  
 - Extension to spheroidal morphologies  
 - Equivalent and voxel-based surface-area estimation methodologies  
 - Fully discrete computation of interfacial area evolution between phases, without phenomenological support equations or empirical correction factors  
-- Large-scale lattice-based 3D simulation (200³–201³ grids)  
+- Large-scale lattice-based 3D simulations (200³–201³ grids)  
 - Statistical characterization of polycrystalline microstructures  
 
-The fully discrete computation of interfacial area evolution constitutes a key structural element of the framework, made possible by geometrically consistent spherical modeling and robust surface-area estimation techniques.
+The fully discrete treatment of interfacial area evolution constitutes a key structural element of the framework, made possible by geometrically controlled spherical modeling and robust surface-area estimation techniques.
 
 ---
 
 ## Research Output
 
-SimCres has generated a structured journal-focused research cycle spanning computational materials engineering and applied mathematical modeling.
+SimCres has generated a journal-focused research cycle spanning computational materials engineering and applied mathematical modeling.
 
 ### Published
 
@@ -50,14 +50,12 @@ Four additional journal manuscripts are currently under evaluation, including su
 - Journals in applied mathematics and computational modeling  
 
 These manuscripts address geometric modeling, discretization effects, surface-area estimation, and theoretical extensions of the HCA framework.
-  
+
 ---
 
 ## Research Character
 
-SimCres represents an independently developed computational research line in materials science, designed and implemented without external funding or institutional infrastructure support.
-
-The framework reflects a high-intensity research cycle centered on methodological rigor, geometric consistency, and journal-level scientific production.
+SimCres represents an independently developed computational research line in materials science, built around geometric rigor, fully discrete modeling, and journal-level scientific dissemination.
 
 ---
 
@@ -65,6 +63,6 @@ The framework reflects a high-intensity research cycle centered on methodologica
 
 SimCres remains an active methodological research line.
 
-Future developments may include enhanced geometric descriptors, extended surface modeling techniques, multi-physics coupling, larger-scale simulations, and potential architectural restructuring under a next-generation framework identity.
+Future developments may include enhanced geometric descriptors, refined surface modeling strategies, multi-physics integration, larger-scale simulations, and potential architectural restructuring under a next-generation framework identity.
 
-The platform will continue to evolve opportunistically, driven by research feasibility and emerging scientific questions in computational materials modeling.
+The platform will evolve in alignment with emerging research questions in computational materials modeling.
