@@ -22,16 +22,20 @@ I am open to academic appointments, postdoctoral opportunities, applied R&D coll
 ### ODDET — Origin–Destination Data Evaluation Tool  
 **Large-scale mobility analytics framework**
 
-A structured Python-based framework for processing and diagnosing large-scale Origin–Destination matrices derived from anonymized mobile phone datasets.
+A structured Python-based framework for processing and diagnosing large-scale Origin–Destination (OD) matrices derived from anonymized mobile phone datasets, operating over real metropolitan road-network topology.
 
-**Capabilities:**
-- Interzonal traversal analysis  
-- Percentile-based flow filtering  
-- Geodetic distance computation (Haversine)  
+Within the APQ-04889-24 research initiative, under the general coordination of Prof. Dr. Guilherme de Castro Leiva, I lead the development of the graph-based computational architecture and multi-source shortest-path analytical framework (Dijkstra-based) underpinning ODDET. I am responsible for the methodological structuring of traversal diagnostics, the implementation of scalable computational pipelines, and the scientific production associated with its analytical development and applications.
+
+**Core capabilities:**
+
+- Multi-source shortest-path allocation over real road networks  
+- Interzonal traversal diagnostics  
+- Edge-level flow distribution analysis  
+- Percentile-based OD filtering strategies  
 - Corridor identification and threshold analytics  
-- Modular data-processing architecture  
+- Modular and scalable data-processing architecture  
 
-**Application context:** Metropolitan-scale mobility diagnostics (RMBH, Brazil)
+Application context: Metropolitan-scale mobility diagnostics and analytical evaluation of CDR-derived OD matrices (RMBH, Brazil).
 
 ➡️ [Explore ODDET Framework](https://henriquecostabraga.github.io/oddet.html)
 
