@@ -1,3 +1,7 @@
+---
+title: Fuga
+---
+
 # FUGA — Evacuation & Pathfinding Simulation Framework
 
 ## Overview
