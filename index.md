@@ -34,6 +34,7 @@ A structured Python-based framework for processing and diagnosing large-scale Or
 **Application context:** Metropolitan-scale mobility diagnostics (RMBH, Brazil)
 
 ➡️ [Explore ODDET Framework](https://henriquecostabraga.github.io/oddet.html)
+➡️ <a href="https://henriquecostabraga.github.io/oddet.html" target="_blank" rel="noopener noreferrer">Explore ODDET Framework</a><br>
 
 ---
 
@@ -49,6 +50,7 @@ A simulation framework designed to analyze pedestrian dynamics, distance-map gen
 - Integration with fire safety engineering standards
 
 ➡️ [Explore FUGA Framework](https://henriquecostabraga.github.io/fuga.html)
+➡️ <a href="https://henriquecostabraga.github.io/fuga.html" target="_blank" rel="noopener noreferrer">Explore FUGA Framework</a><br>
 
 ---
 
@@ -64,6 +66,7 @@ A computational system for simulating recrystallization and grain growth in meta
 - Statistical morphological analysis
 
 ➡️ [Explore SimCres Framework](https://henriquecostabraga.github.io/simcres.html)
+➡️ <a href="https://henriquecostabraga.github.io/simcres.html" target="_blank" rel="noopener noreferrer">Explore SimCres Framework</a>
 
 ---
 
@@ -130,6 +133,11 @@ Selected publications in computational modeling, evacuation analysis, and materi
 - 🧬 [ORCID](https://orcid.org/0000-0001-9504-6156)  
 - 📊 [ResearchGate](https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf)
 - 📘 [CV Lattes (Brazil)](http://lattes.cnpq.br/4000581168785421)
+
+- 🔗 <a href="https://linkedin.com/in/henrique-costa-braga-71636057" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+- 🧬 <a href="https://orcid.org/0000-0001-9504-6156" target="_blank" rel="noopener noreferrer">ORCID</a></li>
+- 📊 <a href="https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a></li>
+- 📘 <a href="http://lattes.cnpq.br/4000581168785421" target="_blank" rel="noopener noreferrer">CV Lattes (Brazil)</a></li>
 
   
 ## Contact
