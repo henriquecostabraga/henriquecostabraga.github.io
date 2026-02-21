@@ -24,7 +24,7 @@ I am open to academic appointments, postdoctoral opportunities, applied R&D coll
 
 A structured Python-based framework for processing and diagnosing large-scale Origin–Destination (OD) matrices derived from anonymized mobile phone datasets, operating over real metropolitan road-network topology.
 
-Within the APQ-04889-24 research initiative, under the general coordination of Prof. Dr. Guilherme de Castro Leiva, I lead the development of the graph-based computational architecture and multi-source shortest-path analytical framework (Dijkstra-based) underpinning ODDET. I am responsible for the methodological structuring of traversal diagnostics, the implementation of scalable computational pipelines, and the scientific production associated with its analytical development and applications.
+Within the APQ-04889-24 research initiative, under the general coordination of **Prof. Dr. Guilherme de Castro Leiva**, I lead the development of the graph-based computational architecture and multi-source shortest-path analytical framework (Dijkstra-based) underpinning ODDET. I am responsible for the methodological structuring of traversal diagnostics, the implementation of scalable computational pipelines, and the scientific production associated with its analytical development and applications.
 
 **Core capabilities:**
 
