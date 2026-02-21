@@ -1,38 +1,106 @@
-# Henrique Costa Braga
-## **Ph.D. | Engineer**
-
-Computational Modeling of Complex Engineering Systems  
-Materials Science • Urban Mobility • Fire Safety
-
+# Henrique Costa Braga, Ph.D.
+Engineer | Computational Modeling | Applied Systems Architecture
 
 ---
 
-## About
+## Profile
 
-I am an engineer and researcher specialized in mathematical and computational modeling applied to complex engineering systems.
+I am an engineer and Ph.D. specialized in mathematical and computational modeling applied to complex engineering systems.
 
-My work integrates hybrid cellular automata, agent-based modeling, numerical simulation, pathfinding algorithms, computational fluid dynamics, and data-driven analytical methods to develop practical computational tools for real-world engineering problems.
+My work integrates theoretical formulation, numerical modeling, and software architecture design to build operational computational frameworks capable of addressing real-world engineering problems.
 
-Applications include microstructural evolution in materials, urban mobility and origin–destination modeling, pedestrian dynamics, evacuation analysis, and fire safety systems.
+I develop model-driven systems combining hybrid cellular automata, agent-based modeling, graph-based algorithms, numerical simulation, and structured data-processing pipelines.
 
-I have extensive experience translating theoretical and mathematical formulations into operational software frameworks, primarily in Python, combining numerical modeling, simulation, and analytical system design.
+My professional trajectory bridges academic research and applied engineering practice, including formal technical responsibility in fire safety systems.
 
-Recent projects involve large-scale mobility modeling based on mobile phone data (OD matrices), where I coordinate research activities related to data processing pipelines, modeling architecture, and analytical frameworks.
-
-I am open to academic positions, postdoctoral opportunities, applied R&D collaborations, and technical engineering roles involving modeling, simulation, and analytical systems.
+I am open to academic positions, postdoctoral opportunities, applied R&D collaborations, ant technical engineering roles.
 
 ---
 
-## Selected Topics
-- Computational Modeling & Simulation
-- Hybrid Cellular Automata
-- Data-Driven Mobility Analysis
-- Computational Materials Engineering
-- Fire Safety & Evacuation Modeling
-- Pathfinding Algorithms
-- CFD (Fire Dynamic Simulator / NIST)
-- Microstructural Modeling
-- Python-Based Scientific Computing
+## Areas of Application
+
+- Computational Materials Engineering  
+- Large-Scale Urban Mobility Modeling (Origin–Destination Systems)  
+- Pedestrian Dynamics & Evacuation Simulation  
+- Fire Safety Engineering & Regulatory Analysis  
+- Scientific Python Architectures  
+
+---
+
+## Featured Projects
+
+### 🔹 ODDET — Origin–Destination Data Evaluation Tool
+
+A modular Python-based analytical framework designed for large-scale OD matrix processing derived from mobile phone data.
+
+Key components:
+- Interzonal traversal analysis
+- Percentile-based flow filtering
+- Geodetic distance computation
+- Graph-based analytical routines
+- Structured data processing pipelines
+
+Application context: Metropolitan-scale mobility systems (RMBH, Brazil)
+
+---
+
+### 🔹 FUGA — Evacuation & Pathfinding Simulation Framework
+
+An agent-based simulation platform for modeling pedestrian dynamics and evacuation processes in built environments.
+
+Core elements:
+- Distance-map generation algorithms
+- Von Neumann / Moore neighborhood comparison
+- Multi-agent movement logic
+- Exit distribution impact analysis
+- Integration with fire safety engineering standards
+
+---
+
+### 🔹 SimCres — 3D Hybrid Cellular Automata for Microstructural Evolution
+
+A computational platform for simulating recrystallization and grain growth in metallic materials.
+
+Core elements:
+- Spheroidal grain modeling
+- Surface-area estimation methods
+- Lattice-based 3D simulation
+- Statistical morphological analysis
+
+---
+
+## Technical Foundations
+
+- Hybrid Cellular Automata (HCA)
+- Agent-Based Modeling (ABM)
+- Graph Algorithms & Pathfinding
+- Numerical Methods & Scientific Computing
+- Python (NumPy, Pandas, Matplotlib)
+- Fire Dynamics Simulator (NIST – FDS)
+- Engineering Responsibility & Technical Compliance
+
+---
+
+## Approach
+
+My work is structured around:
+
+- Model-first architecture
+- Mathematical consistency
+- Reproducible computational workflows
+- System-level integration
+- Translation of research into operational tools
+
+I focus on designing computational systems that are analytically rigorous and practically deployable.
+
+---
+
+## Current Directions
+
+- Macro–meso–micro mobility integration
+- Scalable analytical architectures for large mobility datasets
+- Advanced evacuation modeling
+- Applied computational engineering systems
 
 ---
 
@@ -59,5 +127,7 @@ I am open to academic positions, postdoctoral opportunities, applied R&D collabo
 - <a href="https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a>
 - <a href="https://orcid.org/0000-0001-9504-6156" target="_blank" rel="noopener noreferrer">ORCID</a>
 - <a href="http://lattes.cnpq.br/4000581168785421" target="_blank" rel="noopener noreferrer">CV Lattes (Brazil)</a>
-- Email: henriquecbragaseg@gmail.com  
-- Institutional email: henriquebraga@cefetmg.br
+  
+## Contact
+📧 henriquecbragaseg@gmail.com  
+📧 henriquebraga@cefetmg.br
