@@ -126,10 +126,10 @@ Selected publications in computational modeling, evacuation analysis, and materi
   
 ## Professional Links
 
-- 🔗 <a href="https://linkedin.com/in/henrique-costa-braga-71636057" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-- 🧬 <a href="https://orcid.org/0000-0001-9504-6156" target="_blank" rel="noopener noreferrer">ORCID</a>
-- 📊 <a href="https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a>
-- 📘 <a href="http://lattes.cnpq.br/4000581168785421" target="_blank" rel="noopener noreferrer">CV Lattes (Brazil)</a>
+- ➡️ <a href="https://linkedin.com/in/henrique-costa-braga-71636057" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- ➡️ <a href="https://orcid.org/0000-0001-9504-6156" target="_blank" rel="noopener noreferrer">ORCID</a>
+- ➡️ <a href="https://www.researchgate.net/profile/Henrique-Braga?ev=hdr_xprf" target="_blank" rel="noopener noreferrer">ResearchGate</a>
+- ➡️ <a href="http://lattes.cnpq.br/4000581168785421" target="_blank" rel="noopener noreferrer">CV Lattes (Brazil)</a>
 
   
 ## Contact
