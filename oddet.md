@@ -6,21 +6,53 @@ title: ODDET
 
 ## Overview
 
-ODDET is a structured computational framework designed for large-scale Origin–Destination (OD) matrix processing and metropolitan mobility diagnostics.
+ODDET is a graph-based computational framework for large-scale Origin–Destination (OD) matrix analysis and metropolitan mobility diagnostics.
 
-The framework integrates geodetic computation (Haversine-based distance estimation), graph-based analytics, percentile-based statistical filtering, and modular data-processing pipelines into a scalable analytical architecture for metropolitan systems.
+The framework operates on real road-network topology structured as a weighted graph, where multi-source and multi-target shortest-path computations (based on Dijkstra’s algorithm) are used to derive interzonal traversal structures and edge-level flow allocation patterns.
 
-ODDET is currently being consolidated as version 1.0, with institutional deployment planned on a dedicated server to enable controlled remote access for authorized researchers.
+ODDET originates from the research project:
+
+**APQ-04889-24 — “Inferring Modal Split from Mobile Phone–Derived Origin–Destination Matrices”**, under the general coordination of **Prof. Dr. Guilherme de Castro Leiva**.
+
+The project seeks to evaluate and propose methodological alternatives for qualifying mobile phone-derived OD matrices, particularly regarding modal split inference for metropolitan transport planning in the Belo Horizonte Metropolitan Region (RMBH).
+
+Within this initiative, my role focuses on:
+
+- Graph-model architecture design  
+- Multi-source shortest-path analytical structure  
+- Traversal-flow diagnostics  
+- Percentile-based OD filtering strategies  
+- Structured computational pipelines for large OD datasets  
+
+ODDET v1.0 constitutes the analytical infrastructure layer supporting structural diagnostics and network-based evaluation of OD matrices.
+
+Institutional deployment is planned on a dedicated server to enable controlled remote research access.
 
 ---
 
 ## Research Context
 
-ODDET supports ongoing international research efforts in large-scale mobility modeling, interzonal traversal diagnostics, and structural analysis of metropolitan OD systems derived from mobile phone data (CDRs).
+The broader project investigates the methodological limitations of mobile phone-derived OD datasets for operational transport planning, particularly concerning modal split inference.
 
-The framework is designed not merely as a visualization tool, but as an analytical infrastructure for methodological investigation of spatial interaction patterns, traversal intensity, and structural biases in OD matrices.
+Preliminary assessments indicate that while CDR-based OD matrices support strategic-level urban analysis (e.g., centralities, behavioral patterns), their applicability to operational transport planning remains limited due to structural data constraints related to data collection, aggregation, and base structure.
 
-Multiple conference papers derived from the ODDET architecture are currently under peer review.
+ODDET addresses this gap by providing a network-theoretic diagnostic layer capable of evaluating:
+
+- Interzonal traversal structures  
+- Network connectivity patterns  
+- Edge-level load distributions  
+- Structural biases in OD matrices  
+
+Multiple conference papers derived from the ODDET analytical architecture are currently under peer review.
+
+---
+
+## Development Status
+
+- Version: ODDET v1.0 (analytical infrastructure consolidation)
+- Institutional server deployment planned
+- INPI software registration in preparation
+- Technical manual (book format, DOI and ISBN) in development
 
 ---
 
@@ -33,25 +65,16 @@ Multiple conference papers derived from the ODDET architecture are currently und
 
 ---
 
-## Development Status
+## Future Goals — ODDET v2.0 (Feb 2027)
 
-- Version: ODDET v1.0 (consolidation phase)
-- Institutional server deployment planned
-- INPI software registration in preparation
-- Technical manual (book format, DOI and ISBN) in development
-
----
-
-## Future Goals — ODDET v2.0 (Dec 2026)
-
-The next major milestone (ODDET v2.0) aims to incorporate modal inference capabilities based on mobile phone-derived OD matrices.
+ODDET v2.0 aims to incorporate modal inference capabilities consistent with the objectives of APQ-04889-24.
 
 Planned developments include:
 
-- Integration of statistical and probabilistic models for transport mode inference (e.g., private vehicle, public transport, active modes) from spatiotemporal OD patterns.
-- Incorporation of auxiliary datasets (network topology, travel time distributions, zoning characteristics, and possibly ticketing or survey data) for calibration and validation.
-- Development of a meso-scale modal classification layer capable of associating inferred transport modes with OD flows.
-- Sensitivity analysis of modal inference under varying spatial aggregation levels and privacy constraints.
-- Extension toward macro–meso–micro analytical integration, allowing downstream simulation modules to incorporate inferred modal structures.
+- Statistical and probabilistic models for transport mode inference from CDR-derived OD matrices  
+- Integration of auxiliary datasets (network topology, zoning characteristics, calibration datasets)  
+- Sensitivity analysis under spatial aggregation and privacy constraints  
+- Development of a meso-scale modal attribution layer associated with network traversal structures  
+- Extension toward macro–meso–micro analytical integration  
 
-The objective of v2.0 is to transition ODDET from structural OD diagnostics to enriched mobility-system characterization, advancing toward integrated metropolitan transport modeling.
+The objective is to evolve ODDET from structural OD diagnostics toward enriched metropolitan mobility characterization capable of supporting operational transport planning.
