@@ -5,15 +5,66 @@ Engineer | Computational Modeling | Applied Systems Architecture
 
 ## Profile
 
-I am an engineer and Ph.D. specialized in mathematical and computational modeling applied to complex engineering systems.
+I am an engineer and Ph.D. specialized in mathematical and computational modeling of complex engineering systems, with emphasis on the design and implementation of structured computational architectures.
 
 My work integrates theoretical formulation, numerical modeling, and software architecture design to build operational computational frameworks capable of addressing real-world engineering problems.
 
-I develop model-driven systems combining hybrid cellular automata, agent-based modeling, graph-based algorithms, numerical simulation, and structured data-processing pipelines.
+I develop model-driven systems combining hybrid cellular automata, agent-based modeling, graph-based algorithms, numerical simulation, and structured data-processing pipelines. My work emphasizes modular design, architectural clarity, and reproducible analytical workflows.
 
-My professional trajectory bridges academic research and applied engineering practice, including formal technical responsibility in fire safety systems.
+My professional trajectory bridges academic research and applied engineering practice, including formal technical responsibility (ART – CREA) in fire safety systems and regulatory compliance projects.
 
-I am open to academic positions, postdoctoral opportunities, applied R&D collaborations, ant technical engineering roles.
+I coordinate research activities involving large-scale data processing pipelines and computational modeling architectures, translating analytical concepts into deployable computational tools.
+
+I am open to academic positions, postdoctoral opportunities, applied R&D collaborations, and technical engineering roles involving modeling, simulation, and analytical system design.
+
+---
+
+## Featured Projects
+
+### 🔹 ODDET — Origin–Destination Data Evaluation Tool
+
+A modular Python-based analytical framework designed for large-scale origin–destination matrix processing derived from mobile phone datasets.
+
+Key components:
+
+- Interzonal traversal analysis  
+- Percentile-based flow filtering  
+- Geodetic distance computation (Haversine)  
+- Graph-based analytical routines  
+- Structured data processing pipelines  
+
+Designed to support metropolitan-scale mobility diagnostics and analytical decision-making.
+
+---
+
+### 🔹 FUGA — Evacuation & Pathfinding Simulation Framework
+
+An agent-based simulation platform for modeling pedestrian dynamics and evacuation processes in built environments.
+
+Core elements:
+
+- Distance-map generation algorithms  
+- Von Neumann / Moore neighborhood comparison  
+- Multi-agent movement logic  
+- Exit distribution impact analysis  
+- Integration with fire safety engineering standards  
+
+Developed to bridge evacuation theory, computational modeling, and applied fire safety engineering.
+
+---
+
+### 🔹 SimCres — 3D Hybrid Cellular Automata for Microstructural Evolution
+
+A computational platform for simulating recrystallization and grain growth in metallic materials.
+
+Core elements:
+
+- Spheroidal grain modeling  
+- Surface-area estimation methods  
+- Lattice-based 3D simulation  
+- Statistical morphological analysis  
+
+Focused on integrating physical modeling consistency with scalable computational implementation.
 
 ---
 
@@ -27,57 +78,15 @@ I am open to academic positions, postdoctoral opportunities, applied R&D collabo
 
 ---
 
-## Featured Projects
-
-### 🔹 ODDET — Origin–Destination Data Evaluation Tool
-
-A modular Python-based analytical framework designed for large-scale OD matrix processing derived from mobile phone data.
-
-Key components:
-- Interzonal traversal analysis
-- Percentile-based flow filtering
-- Geodetic distance computation
-- Graph-based analytical routines
-- Structured data processing pipelines
-
-Application context: Metropolitan-scale mobility systems (RMBH, Brazil)
-
----
-
-### 🔹 FUGA — Evacuation & Pathfinding Simulation Framework
-
-An agent-based simulation platform for modeling pedestrian dynamics and evacuation processes in built environments.
-
-Core elements:
-- Distance-map generation algorithms
-- Von Neumann / Moore neighborhood comparison
-- Multi-agent movement logic
-- Exit distribution impact analysis
-- Integration with fire safety engineering standards
-
----
-
-### 🔹 SimCres — 3D Hybrid Cellular Automata for Microstructural Evolution
-
-A computational platform for simulating recrystallization and grain growth in metallic materials.
-
-Core elements:
-- Spheroidal grain modeling
-- Surface-area estimation methods
-- Lattice-based 3D simulation
-- Statistical morphological analysis
-
----
-
 ## Technical Foundations
 
-- Hybrid Cellular Automata (HCA)
-- Agent-Based Modeling (ABM)
-- Graph Algorithms & Pathfinding
-- Numerical Methods & Scientific Computing
-- Python (NumPy, Pandas, Matplotlib)
-- Fire Dynamics Simulator (NIST – FDS)
-- Engineering Responsibility & Technical Compliance
+- Hybrid Cellular Automata (HCA)  
+- Agent-Based Modeling (ABM)  
+- Graph Algorithms & Pathfinding  
+- Numerical Methods & Scientific Computing  
+- Python (NumPy, Pandas, Matplotlib)  
+- Fire Dynamics Simulator (NIST – FDS)  
+- Engineering Responsibility & Technical Compliance  
 
 ---
 
@@ -85,26 +94,18 @@ Core elements:
 
 My work is structured around:
 
-- Model-first architecture
-- Mathematical consistency
-- Reproducible computational workflows
-- System-level integration
-- Translation of research into operational tools
+- Model-first architecture  
+- Mathematical consistency  
+- Modular computational design  
+- Reproducible analytical workflows  
+- System-level integration  
+- Translation of research into operational tools  
 
 I focus on designing computational systems that are analytically rigorous and practically deployable.
 
 ---
 
-## Current Directions
-
-- Macro–meso–micro mobility integration
-- Scalable analytical architectures for large mobility datasets
-- Advanced evacuation modeling
-- Applied computational engineering systems
-
----
-
-## Selected Publications
+## Selected Peer-Reviewed Publications
 
 - Braga HC, Silva SN, Correa ECS. *Modeling and simulation of recrystallization in metals with spheroidal grain structures using hybrid cellular automata.* **Materia** (Rio de Janeiro), 2026.  
   DOI: <a href="https://doi.org/10.1590/1517-7076-RMAT-2025-0758" target="_blank" rel="noopener noreferrer">10.1590/1517-7076-RMAT-2025-0758</a>
