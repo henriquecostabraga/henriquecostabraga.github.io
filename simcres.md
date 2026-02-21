@@ -6,48 +6,65 @@ title: SimCres
 
 ## Overview
 
-SimCres is an independently conceived and fully implemented computational framework for modeling recrystallization and grain-growth phenomena using three-dimensional hybrid cellular automata (HCA).
+SimCres is an independently conceived and fully implemented computational framework for modeling microstructural evolution in metallic materials using three-dimensional Hybrid Cellular Automata (HCA).
 
-The platform was developed as an author-driven research initiative during a concentrated Master’s research cycle (2024), with full responsibility for conceptual design, mathematical formulation, algorithmic implementation, and scientific production.
+The platform was developed with full responsibility for conceptual formulation, mathematical structuring, algorithmic implementation, and scientific production.
 
-SimCres integrates lattice-based simulation, morphological analysis, and surface-area estimation methodologies into a structured computational modeling architecture.
+A central contribution of SimCres is the introduction and application of a hybrid CA formulation enabling high-fidelity spherical grain modeling under discretized lattice constraints. This approach overcomes geometric limitations inherent to traditional cellular automata and provides a consistent basis for quantitative microstructural analysis.
 
 ---
 
-## Core Methodological Contributions
+## Methodological Foundations
 
-- Three-dimensional Hybrid Cellular Automata (HCA)
-- Spheroidal grain growth modeling
-- Equivalent vs. voxel-based surface-area estimation
-- Surface correction modeling under discretization constraints
-- Statistical characterization of polycrystalline microstructures
-- Large-scale lattice simulations (200³–201³ grids)
+SimCres is structured around the following core principles:
+
+- Hybrid Cellular Automata (HCA) formulation for spherical grain modeling  
+- Comparative modeling with traditional CA (including cuboctahedral configurations)  
+- Extension to spheroidal morphologies  
+- Equivalent and voxel-based surface-area estimation methodologies  
+- Fully discrete computation of interfacial area evolution between phases, without phenomenological support equations or empirical correction factors  
+- Large-scale lattice-based 3D simulation (200³–201³ grids)  
+- Statistical characterization of polycrystalline microstructures  
+
+The fully discrete computation of interfacial area evolution constitutes a key structural element of the framework, made possible by geometrically consistent spherical modeling and robust surface-area estimation techniques.
 
 ---
 
 ## Research Output
 
-The SimCres framework has generated:
+SimCres has generated a structured journal-focused research cycle spanning computational materials engineering and applied mathematical modeling.
 
-- 2 peer-reviewed journal publications  
-- 4 additional journal manuscripts currently under evaluation  
+### Published
 
-All outputs were structured with direct focus on journal-level dissemination in computational materials engineering.
+- Braga HC, Silva SN. *Study of recrystallization in metals through equiaxial growth of nuclei using three-dimensional hybrid cellular automata.* **Materials Research**, 2025.  
+  DOI: <a href="https://doi.org/10.1590/1980-5373-MR-2025-0204" target="_blank" rel="noopener noreferrer">10.1590/1980-5373-MR-2025-0204</a>
 
+- Braga HC, Silva SN, Correa ECS. *Modeling and simulation of recrystallization in metals with spheroidal grain structures using hybrid cellular automata.* **Materia**, 2026.  
+  DOI: <a href="https://doi.org/10.1590/1517-7076-RMAT-2025-0758" target="_blank" rel="noopener noreferrer">10.1590/1517-7076-RMAT-2025-0758</a>
+
+### Under Review
+
+Four additional journal manuscripts are currently under evaluation, including submissions to:
+
+- Journals in computational materials science  
+- Journals in applied mathematics and computational modeling  
+
+These manuscripts address geometric modeling, discretization effects, surface-area estimation, and theoretical extensions of the HCA framework.
+  
 ---
 
 ## Research Character
 
-SimCres represents an independently developed computational research line in materials science, designed and implemented without external funding or institutional infrastructure.
+SimCres represents an independently developed computational research line in materials science, designed and implemented without external funding or institutional infrastructure support.
 
-The framework reflects a high-intensity research cycle centered on methodological rigor, computational architecture, and journal-level scientific production.
+The framework reflects a high-intensity research cycle centered on methodological rigor, geometric consistency, and journal-level scientific production.
 
 ---
 
 ## Future Directions
 
-SimCres remains an active methodological research line. 
+SimCres remains an active methodological research line.
 
-Future developments may include expansion of surface modeling methodologies, enhanced morphological descriptors, larger-scale simulations, and potential architectural restructuring under a next-generation framework identity.
+Future developments may include enhanced geometric descriptors, extended surface modeling techniques, multi-physics coupling, larger-scale simulations, and potential architectural restructuring under a next-generation framework identity.
 
 The platform will continue to evolve opportunistically, driven by research feasibility and emerging scientific questions in computational materials modeling.
