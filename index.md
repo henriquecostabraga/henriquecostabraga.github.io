@@ -41,16 +41,21 @@ Application context: Metropolitan-scale mobility diagnostics and analytical eval
 
 ---
 
-### FUGA — Evacuation & Pathfinding Simulation Platform  
-**Agent-based evacuation modeling system**
+### FUGA — Evacuation Modeling Research Line  
+Foundational evacuation and pathfinding architecture (2010–2018)
 
-A simulation framework designed to analyze pedestrian dynamics, distance-map generation, and evacuation efficiency in built environments.
+An author-driven evacuation modeling framework originally conceived and independently developed during my Master’s and Doctoral research (2010–2018).
 
-**Capabilities:**
-- Von Neumann and Moore neighborhood comparison  
-- Multi-agent movement logic  
-- Exit-distribution optimization analysis  
-- Integration with fire safety engineering standards
+FUGA was structured into two complementary modules:
+
+- **FUGA Path** — A visibility-driven deterministic routing module generating geometrically optimal evacuation paths over discretized environments with fixed obstacles.
+- **FUGA Move** — A dynamic multi-agent simulation module incorporating behavioral modeling (including fuzzy-logic-based decision mechanisms) to balance optimal routing with human and crowd dynamics.
+
+The visibility-based exploration algorithm emerged as the central structural contribution of the framework, producing geometrically optimal routes under discretization constraints.
+
+FUGA generated multiple peer-reviewed journal publications and extensive international conference dissemination.
+
+The research line is considered methodologically consolidated and forms the foundation for future independent developments in evacuation modeling architectures.
 
 ➡️ [Explore FUGA Framework](https://henriquecostabraga.github.io/fuga.html)
 
