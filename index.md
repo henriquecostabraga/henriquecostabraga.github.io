@@ -13,8 +13,6 @@ My professional trajectory integrates academic research and applied engineering 
 
 I operate at the interface between theory, modeling, and implementation — structuring systems that are analytically rigorous, computationally scalable, and practically deployable.
 
-I am open to academic appointments, postdoctoral opportunities, applied R&D collaborations, and senior technical engineering roles involving modeling, simulation, and analytical system design.
-
 ---
 
 ## Core Projects & Computational Frameworks
