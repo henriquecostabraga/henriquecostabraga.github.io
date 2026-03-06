@@ -10,9 +10,9 @@ ODDET is a graph-based computational framework for large-scale Origin–Destinat
 
 The framework operates on real road-network topology structured as a weighted graph, where multi-source and multi-target shortest-path computations (based on Dijkstra’s algorithm) are used to derive interzonal traversal structures and edge-level flow allocation patterns.
 
-ODDET originates from the research project:
+ODDET originates from the research project under the general coordination of **Prof. Dr. Guilherme de Castro Leiva**:
 
-**APQ-04889-24 — “Inferring Modal Split from Mobile Phone–Derived Origin–Destination Matrices”**, under the general coordination of **Prof. Dr. Guilherme de Castro Leiva**.
+**APQ-04889-24 — “Inferring Modal Split from Mobile Phone–Derived Origin–Destination Matrices”**.
 
 The project seeks to evaluate and propose methodological alternatives for qualifying mobile phone-derived OD matrices, particularly regarding modal split inference for metropolitan transport planning in the Belo Horizonte Metropolitan Region (RMBH).
 
