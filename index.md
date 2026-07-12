@@ -90,7 +90,7 @@ Research spanning industrial metallurgy, hot deformation of metallic materials, 
 ### Safety, Fire, and Ergonomics Engineering  
 **Fire protection, occupational safety, ergonomics, and applied risk analysis**
 
-Research and technical work grounded in engineering practice, spanning fire and evacuation safety, occupational risk, ergonomics, and multidisciplinary technical investigations, with emphasis on real-world safety problems and applied engineering analysis.
+Research and technical work grounded in engineering practice, spanning fire protection, occupational safety, ergonomics, regulatory analysis, and multidisciplinary technical investigations, with emphasis on real-world safety problems and applied engineering analysis.
 
 ➡️ [Explore Safety, Fire, and Ergonomics Engineering](https://henriquecostabraga.github.io/safety-engineering.html)
 
@@ -122,7 +122,7 @@ I have also served as a session chair at an international scientific conference 
 - Large-Scale Mobility Data Analysis
 - Fire Safety Engineering and Regulatory Analysis
 - Occupational Safety and Ergonomics
-- Scientific Python and Data-Driven Engineering 
+- Scientific Computing and Data-Driven Engineering 
 
 ---
 
@@ -137,7 +137,7 @@ My work is structured around:
 - Integration of research and implementation  
 - System-level problem structuring  
 
-I develop computational systems that are technically rigorous while remaining operationally relevant in real engineering contexts.
+I develop engineering analyses and computational systems that are technically rigorous while remaining operationally relevant in real-world contexts.
 
 ---
 
@@ -145,7 +145,7 @@ I develop computational systems that are technically rigorous while remaining op
 
 Philately has been a long-standing field of personal interest and research for more than four decades, particularly in postal history and specialized philatelic studies.
 
-➡️ [Explore Atlas do Colecionador →](https://atlasdocolecionador.com.br)
+➡️ [Explore Atlas do Colecionador →](https://www.atlasdocolecionador.com.br)
 
 ---
 
