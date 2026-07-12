@@ -62,7 +62,7 @@ ODDET has evolved into a broader research framework for urban mobility analysis,
 
 ### Published
 
-- Braga HC, Leiva GC, Dias GM, Carvalho JV, Ferreira MC, Dias TMR, Moita GF, Ribeiro RG. *A Dijkstra-Based Framework for Analyzing Urban Mobility from CDR-Derived OD Matrices: A Case Study of RMBH, Brazil.* **XVLI CILAMCE - Ibero-Latin American Congress on Computational Methods in Engineering**, 2025.  
+- Braga HC, Leiva GC, Dias GM, Carvalho JV, Ferreira MC, Dias TMR, Moita GF, Ribeiro RG. *A Dijkstra-Based Framework for Analyzing Urban Mobility from CDR-Derived OD Matrices: A Case Study of RMBH, Brazil.* **In: XVLI CILAMCE - Ibero-Latin American Congress on Computational Methods in Engineering**, 2025.  
   DOI: <a href="https://doi.org/10.55592/cilamce2025.v5i.14256" target="_blank" rel="noopener noreferrer">10.55592/cilamce2025.v5i.14256</a>
 
 ### Ongoing Research and Development
