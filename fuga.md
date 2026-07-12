@@ -71,11 +71,20 @@ The research line is considered methodologically consolidated and serves as the 
 
 - Braga HC, Moita GF, Almeida PEM. *The influence of emergency exits over the distance to be covered to the exit of an environment.* **Ambiente Construído**, 2019.  
   DOI: <a href="https://doi.org/10.1590/s1678-86212019000200318" target="_blank" rel="noopener noreferrer">10.1590/s1678-86212019000200318</a>
+  
+- Braga HC, Moita GF, Almeida PEM. *The influence of emergency exits over the distance to be covered to the exit of an environment.* **Ambiente Construído**, 2019.  
+  DOI: <a href="https://doi.org/10.1590/s1678-86212019000200318" target="_blank" rel="noopener noreferrer">10.1590/s1678-86212019000200318</a>
+  
+- Braga HC, Moita GF, Almeida PEM. *The influence of emergency exits over the distance to be covered to the exit of an environment.* **Ambiente Construído**, 2019.  
+  DOI: <a href="https://doi.org/10.1590/s1678-86212019000200318" target="_blank" rel="noopener noreferrer">10.1590/s1678-86212019000200318</a>
 
 - Braga HC, Moita GF. *On the Boate Kiss fire and Brazilian safety legislation – What we can learn.* **Collective Dynamics**, 2017.  
   DOI: <a href="https://doi.org/10.17815/CD.2017.12" target="_blank" rel="noopener noreferrer">10.17815/CD.2017.12</a>
 
 #### Articles in Portuguese (titles translated for reference)
+
+- Braga HC, Moita GF. *Software for Simulation of Human Movement in Building Evacuation Situations:Computational Implementation of Ergonomic Aspects and Validation of Results.* **Abakós**, 2026.  
+  DOI: <a href="https://doi.org/10.5752/P.2316-9451.e2026140102" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.e2016140102</a>
 
 - Braga HC, Moita GF, Almeida PEM. *Fuzzy-logic-based simulation of bidirectional pedestrian movement with lane formation and crowd packing effects.* **Abakós**, 2017.  
   DOI: <a href="https://doi.org/10.5752/P.2316-9451.2017v6n1p19" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2017v6n1p19</a>
