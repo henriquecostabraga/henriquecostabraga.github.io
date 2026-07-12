@@ -56,18 +56,20 @@ Multiple conference papers derived from the ODDET analytical architecture are cu
 
 ---
 
-## Publications Related to ODDET
+## Markdown
 
-ODDET has generated an expanding research cycle in urban mobility analysis, origin–destination modeling, network-based computational methods, and large-scale mobility data.
+ODDET has evolved into a broader research framework for urban mobility analysis, supporting studies on origin–destination matrices, network-based computational methods, large-scale mobility data, spatial and temporal mobility patterns, and transport modeling.
 
 ### Published
 
 - Braga HC, Leiva GC, Dias GM, Carvalho JV, Ferreira MC, Dias TMR, Moita GF, Ribeiro RG. *A Dijkstra-Based Framework for Analyzing Urban Mobility from CDR-Derived OD Matrices: A Case Study of RMBH, Brazil.* **XVLI CILAMCE - Ibero-Latin American Congress on Computational Methods in Engineering**, 2025.  
   DOI: <a href="https://doi.org/10.55592/cilamce2025.v5i.14256" target="_blank" rel="noopener noreferrer">10.55592/cilamce2025.v5i.14256</a>
 
-### Ongoing Research and Dissemination
+### Ongoing Research and Development
 
-Multiple journal manuscripts derived from the ODDET research framework are currently under review. Additional outputs include a technical book and an intellectual property registration currently in progress.
+The ODDET research framework currently supports multiple journal manuscripts under review and additional studies at different stages of development. These investigations extend the framework toward zonal geometry, mobility network analysis, large-scale smart card data, temporal mobility structures, and the integration of heterogeneous mobility data sources.
+
+The broader ODDET initiative also includes a technical and operational book and the ongoing software registration process with the Brazilian National Institute of Industrial Property (INPI).
 
 ---
 
