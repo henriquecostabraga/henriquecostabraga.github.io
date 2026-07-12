@@ -69,8 +69,8 @@ The research line is considered methodologically consolidated and serves as the 
 
 #### Articles in English
 
-- Braga HC, Moita GF, Almeida PEM. *The influence of emergency exits over the distance to be covered to the exit of an environment.* **Ambiente Construído**, 2019.  
-  DOI: <a href="https://doi.org/10.1590/s1678-86212019000200318" target="_blank" rel="noopener noreferrer">10.1590/s1678-86212019000200318</a>
+- Braga HC, Moita GF, Almeida PEM. *Distance Map Associated with Tangent Search as a Pathfinder Strategy: achieving high-quality and safe route maps for crowed movement in built environments.* **Trends in Computational and Applied Mathematics**, 2026.  
+  DOI: <a href="https://doi.org/10.5540/tcam.2026.027.e01845" target="_blank" rel="noopener noreferrer">10.5540/tcam.2026.027.e01845</a>
   
 - Braga HC, Moita GF. *Computational Simulation of the Kiss Nightclub Fire: impact of emergency exit width on evacuation safety.* **Revista Flammae**, 2026.  
   DOI: <a href="https://doi.org/10.5281/zenodo.20473583" target="_blank" rel="noopener noreferrer">10.5281/zenodo.20473583</a>
