@@ -36,15 +36,18 @@ SimCres has generated a journal-focused research cycle spanning computational ma
 
 ### Published
 
-- Braga HC, Silva SN. *Study of recrystallization in metals through equiaxial growth of nuclei using three-dimensional hybrid cellular automata.* **Materials Research**, 2025.  
-  DOI: <a href="https://doi.org/10.1590/1980-5373-MR-2025-0204" target="_blank" rel="noopener noreferrer">10.1590/1980-5373-MR-2025-0204</a>
+- Braga HC, Silva SN, Correa ECS. *Discrete Microstructural Pathway Modeling of Recrystallization Using Three-Dimensional Hybrid Cellular Automata.* **Materials Research**, 2026.  
+  DOI: <a href="https://doi.org/10.1590/1980-5373-MR-2026-0021" target="_blank" rel="noopener noreferrer">10.1590/1980-5373-MR-2026-0021</a>
 
 - Braga HC, Silva SN, Correa ECS. *Modeling and simulation of recrystallization in metals with spheroidal grain structures using hybrid cellular automata.* **Materia**, 2026.  
   DOI: <a href="https://doi.org/10.1590/1517-7076-RMAT-2025-0758" target="_blank" rel="noopener noreferrer">10.1590/1517-7076-RMAT-2025-0758</a>
 
+- Braga HC, Silva SN. *Study of recrystallization in metals through equiaxial growth of nuclei using three-dimensional hybrid cellular automata.* **Materials Research**, 2025.  
+  DOI: <a href="https://doi.org/10.1590/1980-5373-MR-2025-0204" target="_blank" rel="noopener noreferrer">10.1590/1980-5373-MR-2025-0204</a>
+  
 ### Under Review
 
-Four additional journal manuscripts are currently under evaluation, including submissions to:
+Additional journal manuscripts are currently under evaluation, including submissions to:
 
 - Journals in computational materials science  
 - Journals in applied mathematics and computational modeling  
