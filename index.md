@@ -115,28 +115,7 @@ My work is structured around:
 I develop computational systems that are technically rigorous while remaining operationally relevant in real engineering contexts.
 
 ---
-
-## Selected Peer-Reviewed Publications
-
-Selected publications in computational modeling, evacuation analysis, and materials simulation.
-
-- Braga HC, Silva SN, Correa ECS. *Modeling and simulation of recrystallization in metals with spheroidal grain structures using hybrid cellular automata.* **Materia** (Rio de Janeiro), 2026.  
-  DOI: <a href="https://doi.org/10.1590/1517-7076-RMAT-2025-0758" target="_blank" rel="noopener noreferrer">10.1590/1517-7076-RMAT-2025-0758</a>
-
-- Braga HC, Silva SN. *Study of recrystallization in metals through equiaxial growth of nuclei using three-dimensional hybrid cellular automata.* **Materials Research**, 2025.  
-  DOI: <a href="https://doi.org/10.1590/1980-5373-MR-2025-0204" target="_blank" rel="noopener noreferrer">10.1590/1980-5373-MR-2025-0204</a>
-
-- Braga HC, Moita GF, Almeida PEM. *The influence of emergency exits over the distance to be covered to the exit of an environment.* **Ambiente Construído**, 2019.  
-  DOI: <a href="https://doi.org/10.1590/s1678-86212019000200318" target="_blank" rel="noopener noreferrer">10.1590/s1678-86212019000200318</a>
-
-- Braga HC, Moita GF. *On the Boate Kiss fire and Brazilian safety legislation - What we can learn.* **Collective Dynamics**, 2017.  
-  DOI: <a href="https://doi.org/10.17815/CD.2017.12" target="_blank" rel="noopener noreferrer">10.17815/CD.2017.12</a>
-
-- Braga HC, Moita GF, Almeida PEM. *Comparison between search algorithms by von Neumann or Moore neighborhood for generation of the distance map in a built environment.* **Abakós**, 2016. [in Portuguese]. 
-  DOI: <a href="https://doi.org/10.5752/P.2316-9451.2016v4n2p20" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2016v4n2p20</a>
-
----
-  
+ 
 ## Professional Links
 
 - ➡️ <a href="https://github.com/henriquecostabraga" target="_blank" rel="noopener noreferrer">Git Hub</a>
@@ -149,3 +128,5 @@ Selected publications in computational modeling, evacuation analysis, and materi
 ## Contact
 henriquecbragaseg@gmail.com  
 henriquebraga@cefetmg.br
+
+*Last updated: July 12, 2026*
