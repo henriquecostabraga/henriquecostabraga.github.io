@@ -1,21 +1,21 @@
 # Henrique Costa Braga, Ph.D.
-Engineer | Applied Systems Architecture | Research-to-Implementation Design  
+Engineer | Computational Modeling | Applied Engineering  
 
-Designing computational systems that bridge rigorous modeling and real-world engineering applications.
+Bridging engineering experience, computational modeling, and scientific research to address real-world problems.
 
 ---
 
 ## Professional Overview
 
-I am an engineer and Ph.D. specialized in mathematical and computational modeling of complex engineering systems. My work focuses on designing structured computational architectures that transform theoretical models into operational analytical frameworks.
+I am an engineer and Ph.D. specialized in mathematical and computational modeling, with more than three decades of experience spanning engineering practice, scientific research, and computational development. My work combines applied engineering knowledge with mathematical modeling, simulation, and data-driven analytical methods.
 
-My professional trajectory integrates academic research and applied engineering practice. I coordinate research activities involving large-scale data-processing pipelines, mobility system analytics, and simulation-based engineering models, while also holding formal technical responsibility (ART – CREA) in fire safety and regulatory compliance projects.
+My professional trajectory encompasses Materials Engineering, fire and occupational safety, ergonomics, urban mobility, and computational modeling. In parallel with academic research, I have extensive experience in applied engineering activities, including dozens of technical projects and formal engineering responsibilities registered through ART–CREA.
 
-I operate at the interface between theory, modeling, and implementation — structuring systems that are analytically rigorous, computationally scalable, and practically deployable.
+More recently, this multidisciplinary background has supported the development of computational frameworks such as ODDET, FUGA, and SimCres, connecting engineering problems with structured, scalable, and scientifically grounded computational approaches.
 
 ---
 
-## Core Projects & Computational Frameworks
+## Computational Projects & Research Frameworks
 
 ### ODDET — Origin–Destination Data Evaluation Tool  
 **Large-scale mobility analytics framework**
@@ -88,32 +88,41 @@ Research spanning industrial metallurgy, hot deformation of metallic materials, 
 [Explore Materials Engineering Research →](materials-engineering.html)
 
 ### Safety, Fire, and Ergonomics Engineering  
+**Fire protection, occupational safety, ergonomics, and applied risk analysis**
 
 Research and technical work grounded in engineering practice, spanning fire and evacuation safety, occupational risk, ergonomics, and multidisciplinary technical investigations, with emphasis on real-world safety problems and applied engineering analysis.
 
 ➡️ [Explore Safety, Fire, and Ergonomics Engineering](https://henriquecostabraga.github.io/safety-engineering.html)
 
+---
 
-## Academic & International Engagement
+## Academic, Teaching & International Engagement
 
-Research dissemination through peer-reviewed national and international scientific conferences across South America, Europe, Asia, and North America, including presentations in Brazil, Ecuador, Spain, China, and the United States.
+My academic activities combine research, teaching, student supervision, and international scientific engagement.
 
-Service as session chair at an international scientific conference in China.
+I have eight years of teaching experience across technical, undergraduate, and postgraduate education, working with engineering, transportation, safety, and computationally oriented subjects. My teaching practice is closely connected to applied engineering problems, quantitative reasoning, and the integration of theoretical concepts with real-world technical contexts.
 
-Research outputs have also been presented internationally by collaborators in leading conferences in the United States, Europe, and Asia.
+My academic activities also include the supervision and coordination of student research and computational development, particularly in transport modeling, mobility data analysis, and engineering simulation.
+
+Research results have been disseminated through peer-reviewed national and international scientific conferences across South America, Europe, Asia, and North America, including presentations in Brazil, Ecuador, Spain, China, and the United States.
+
+I have also served as a session chair at an international scientific conference in China. Research outputs from projects in which I participate have additionally been presented internationally by collaborators at major conferences in the United States, Europe, and Asia.
 
 ---
 
 ## Areas of Expertise
 
-- Computational Systems Architecture  
-- Hybrid Cellular Automata (3D HCA)  
-- Agent-Based Modeling  
-- Graph Algorithms & Pathfinding  
-- Large-Scale OD Matrix Processing  
-- Scientific Python (NumPy, Pandas, Matplotlib)  
-- Fire Safety Engineering & Regulatory Analysis  
-- Data-Driven Engineering Diagnostics  
+- Mathematical and Computational Modeling
+- Materials and Metallurgical Engineering
+- Microstructural Evolution and Recrystallization
+- Computational Systems Architecture
+- Hybrid Cellular Automata (3D HCA)
+- Agent-Based Modeling
+- Graph Algorithms and Pathfinding
+- Large-Scale Mobility Data Analysis
+- Fire Safety Engineering and Regulatory Analysis
+- Occupational Safety and Ergonomics
+- Scientific Python and Data-Driven Engineering 
 
 ---
 
@@ -131,7 +140,15 @@ My work is structured around:
 I develop computational systems that are technically rigorous while remaining operationally relevant in real engineering contexts.
 
 ---
- 
+
+## Beyond Engineering and Research
+
+Philately has been a long-standing field of personal interest and research for more than four decades, particularly in postal history and specialized philatelic studies.
+
+➡️ [Explore Atlas do Colecionador →](https://atlasdocolecionador.com.br)
+
+---
+
 ## Professional Links
 
 - ➡️ <a href="https://github.com/henriquecostabraga" target="_blank" rel="noopener noreferrer">Git Hub</a>
