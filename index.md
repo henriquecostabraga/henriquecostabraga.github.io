@@ -80,7 +80,14 @@ SimCres introduced and implemented a hybrid CA formulation enabling high-fidelit
 
 ## Engineering Research & Applied Engineering
 
-### Materials, industrial applications, safety, and multidisciplinary engineering research  
+### Materials Engineering Research
+**Metallurgy, microstructural phenomena, industrial processing, and advanced materials**
+
+Research spanning industrial metallurgy, hot deformation of metallic materials, dynamic recrystallization, hydrometallurgy, cementitious materials, and nanomaterials, connecting classical engineering problems with experimental and computational approaches.
+
+[Explore Materials Engineering Research →](materials-engineering.html)
+
+### Fire, safety, and multidisciplinary engineering research  
 
 Research grounded in engineering practice and spanning materials engineering, occupational safety, ergonomics, and applied technical investigations.
 
