@@ -84,7 +84,7 @@ SimCres introduced and implemented a hybrid CA formulation enabling high-fidelit
 
 Research grounded in engineering practice and spanning materials engineering, occupational safety, ergonomics, and applied technical investigations.
 
-➡️ [Explore Engineering Research](https://henriquecostabraga.github.io/enginresearch.html)
+➡️ [Explore Engineering Research](https://henriquecostabraga.github.io/engineering-research.html)
 
 
 ## Academic & International Engagement
