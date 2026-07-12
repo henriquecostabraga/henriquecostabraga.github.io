@@ -86,20 +86,20 @@ The research line is considered methodologically consolidated and serves as the 
 - Braga HC, Moita GF. *Software for Simulation of Human Movement in Building Evacuation Situations:Computational Implementation of Ergonomic Aspects and Validation of Results.* **Abakós**, 2026.  
   DOI: <a href="https://doi.org/10.5752/P.2316-9451.e2026140102" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.e2016140102</a>
 
-- Braga HC, Moita GF, Almeida PEM. *Fuzzy-logic-based simulation of bidirectional pedestrian movement with lane formation and crowd packing effects.* **Abakós**, 2017.  
-  DOI: <a href="https://doi.org/10.5752/P.2316-9451.2017v6n1p19" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2017v6n1p19</a>
-
-- Braga HC, Moita GF, Almeida PEM. *Comparison between search algorithms by von Neumann or Moore neighborhood for generation of the distance map in a built environment.* **Abakós**, 2016.  
-  DOI: <a href="https://doi.org/10.5752/P.2316-9451.2016v4n2p20" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2016v4n2p20</a>
-
 - Braga HC, Moita GF. *The pedestrian perspective during movement in a built environment: joint application of level of service and the pedestrian fundamental diagram.* **Ergodesign & HCI**, 2024.  
   DOI: <a href="https://doi.org/10.22570/ergodesignhci.v11i1.2002" target="_blank" rel="noopener noreferrer">10.22570/ergodesignhci.v11i1.2002</a>
+
+- Braga HC, Moita GF, Almeida PEM. *Fuzzy-logic-based simulation of bidirectional pedestrian movement with lane formation and crowd packing effects.* **Abakós**, 2017.  
+  DOI: <a href="https://doi.org/10.5752/P.2316-9451.2017v6n1p19" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2017v6n1p19</a>
 
 - Braga HC, Moita GF, Almeida PEM. *Distance maps for fire safety in social housing buildings.* **PARC: Pesquisa em Arquitetura e Construção**, 2017.  
   DOI: <a href="https://doi.org/10.20396/parc.v8i1.8647977" target="_blank" rel="noopener noreferrer">10.20396/parc.v8i1.8647977</a>
 
 - Braga HC, Moita GF, Almeida PEM. *An ergonomic approach to human movement: complexity and implications for computational simulation.* **Ergodesign & HCI**, 2017.  
   DOI: <a href="https://doi.org/10.22570/ergodesignhci.v5iEspecial.349" target="_blank" rel="noopener noreferrer">10.22570/ergodesignhci.v5iEspecial.349</a>
+
+- Braga HC, Moita GF, Almeida PEM. *Comparison between search algorithms by von Neumann or Moore neighborhood for generation of the distance map in a built environment.* **Abakós**, 2016.  
+  DOI: <a href="https://doi.org/10.5752/P.2316-9451.2016v4n2p20" target="_blank" rel="noopener noreferrer">10.5752/P.2316-9451.2016v4n2p20</a>
 
 - Braga HC, Moita GF, Camargo F, Almeida PEM. *Simulation of pedestrian movement in emergency situations: ergonomic and computational aspects using fuzzy automata and applications to architectural design.* **Ambiente Construído**, 2014.  
   DOI: <a href="https://doi.org/10.1590/S1678-86212014000200005" target="_blank" rel="noopener noreferrer">10.1590/S1678-86212014000200005</a>
