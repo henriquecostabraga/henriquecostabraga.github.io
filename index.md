@@ -87,11 +87,11 @@ Research spanning industrial metallurgy, hot deformation of metallic materials, 
 
 [Explore Materials Engineering Research →](materials-engineering.html)
 
-### Fire, safety, and multidisciplinary engineering research  
+### Safety, Fire, and Ergonomics Engineering  
 
-Research grounded in engineering practice and spanning materials engineering, occupational safety, ergonomics, and applied technical investigations.
+Research and technical work grounded in engineering practice, spanning fire and evacuation safety, occupational risk, ergonomics, and multidisciplinary technical investigations, with emphasis on real-world safety problems and applied engineering analysis.
 
-➡️ [Explore Engineering Research](https://henriquecostabraga.github.io/engineering-research.html)
+➡️ [Explore Safety, Fire, and Ergonomics Engineering](https://henriquecostabraga.github.io/safety-engineering.html)
 
 
 ## Academic & International Engagement
