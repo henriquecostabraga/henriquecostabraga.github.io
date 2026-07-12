@@ -78,6 +78,15 @@ SimCres introduced and implemented a hybrid CA formulation enabling high-fidelit
 
 ---
 
+## Engineering Research & Applied Engineering
+
+### Materials, industrial applications, safety, and multidisciplinary engineering research  
+
+Research grounded in engineering practice and spanning materials engineering, occupational safety, ergonomics, and applied technical investigations.
+
+➡️ [Explore Engineering Research](https://henriquecostabraga.github.io/enginresearch.html)
+
+
 ## Academic & International Engagement
 
 Research dissemination through peer-reviewed national and international scientific conferences across South America, Europe, Asia, and North America, including presentations in Brazil, Ecuador, Spain, China, and the United States.
