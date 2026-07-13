@@ -7,7 +7,7 @@ Bridging engineering experience, computational modeling, and scientific research
 
 ## Professional Overview
 
-I am an engineer and Ph.D. specialized in mathematical and computational modeling, with more than three decades of experience spanning engineering practice, scientific research, and computational development. My work combines applied engineering knowledge with mathematical modeling, simulation, and data-driven analytical methods.
+I am an engineer and Ph.D. specialized in mathematical and computational modeling, with a multidisciplinary background spanning engineering practice, scientific research, and computational development. My work combines applied engineering knowledge with mathematical modeling, simulation, and data-driven analytical methods.
 
 My professional trajectory encompasses Materials Engineering, fire and occupational safety, ergonomics, urban mobility, and computational modeling. In parallel with academic research, I have extensive experience in applied engineering activities, including dozens of technical projects and formal engineering responsibilities registered through ART–CREA.
 
