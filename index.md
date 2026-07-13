@@ -85,7 +85,7 @@ SimCres introduced and implemented a hybrid CA formulation enabling high-fidelit
 
 Research spanning industrial metallurgy, hot deformation of metallic materials, dynamic recrystallization, hydrometallurgy, cementitious materials, and nanomaterials, connecting classical engineering problems with experimental and computational approaches.
 
-[Explore Materials Engineering Research →](https://henriquecostabraga.github.io/materials-engineering.html)
+➡️ [Explore Materials Engineering Research →](https://henriquecostabraga.github.io/materials-engineering.html)
 
 ### Safety, Fire, and Ergonomics Engineering  
 **Fire protection, occupational safety, ergonomics, and applied risk analysis**
